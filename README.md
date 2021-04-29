@@ -6,7 +6,7 @@
     </image>
 </b>
 <b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpiless&layout=compact&theme=highcontrastt&hide=html" width=400></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpiless&layout=compact&theme=radical&hide=html" width=400></image>
 </b>
 
 <br></br>
