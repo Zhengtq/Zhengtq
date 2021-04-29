@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on computer vision. 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api?username=Zhengtq&show_icons=true&theme=flag-india" width=400></image>
+    <image src="https://github-readme-stats.vercel.app/api?username=Zhengtq&show_icons=true&theme=default" width=400></image>
 </b>
 <b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpiless&layout=compact&theme=flag-india" width=400></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpiless&layout=compact&theme=default" width=400></image>
 </b>
 
 <br></br>
